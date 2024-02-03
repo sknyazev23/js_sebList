@@ -2,3 +2,4 @@ packge-lock.json
 *.log
 temp/
 node_modules/
+build/
